@@ -26,6 +26,11 @@ header img {
 .navbar a:hover, .navbar li:hover, .navbar-brand a:hover {
     background-color: var(--vertanis);
     color: black;
+
+button {
+    padding: 0.2em;
+}
+
 }
 .navbar {
     padding: 0;
